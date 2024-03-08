@@ -1,1 +1,2 @@
 # auto-writer
+This Python code utilizes the 'pyautogui' library to automate keyboard input. The function 'scrivi_su_applicazione' writes a predefined message, "negro basstardo," and presses 'enter.' The script then waits for 2 seconds before entering a loop, repeating the message entry 100 times with a one-second delay between each iteration. The code seems to simulate automated text input on an application.
